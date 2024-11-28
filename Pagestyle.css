@@ -1,0 +1,14 @@
+.videocontainer{width:  500px;
+                height: 400px;
+}        
+#profile-card{background-color:bisque}
+.comment{font-family:'Times New Roman', Times, serif}
+div>h3{}
+div h3{}
+div+hr{}
+div~hr{}
+form input[type="email"]{}
+h2, h2{}
+div>h1+ul>li{background-color: darkred;}
+p:not(.contact){}
+.social-media ul{ background-color: rgb(60,115,168) }

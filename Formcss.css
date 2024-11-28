@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(204,235,197);
+}
+fieldset{
+    background-color:rgb(115,195,108)
+}
+legend{
+    background-color:rgb(204,235,197);
+    color:rgb(0,82,33);
+    border-radius:20px;
+    border:2px;
+    border-color:rgb(0,82,33);
+    height:20px;
+    
+}
+input{
+    background-color:rgb(198,228,191);
+    border-radius:20px;
+}
+textarea{
+    background-color:rgb(198,228,191);
+    border-radius:10px;
+} 
+#submit{
+    font-size:x-large;
+    background-color:rgb(0,82,33);
+    color:rgb(198,228,191);
+    border-radius:20px;
+    float:right;
+    margin-top:10px;
+}
+#Personal-information div{
+    border-bottom : 1px rgb(198,228,191);
+    margin:10px;
+    padding-bottom:10px;
+    width:460px;
+}
+.personal{
+    float:center;
+    width:80px;
+    height:30px;
+    text-align:right;
+    padding-right:7px;
+    background-color: rgb(63,128,70);
+    border-color: white;
+    color:rgb(198,228,191);
+    border-radius:20px;
+}
